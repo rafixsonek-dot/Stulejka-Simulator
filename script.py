@@ -1,2 +1,3 @@
-print(marek)
+marek=2
+(marek)
 
