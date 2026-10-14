@@ -1,3 +1,3 @@
 marek=2
-(marek)
+print(marek)
 
